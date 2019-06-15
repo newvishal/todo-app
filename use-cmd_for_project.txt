@@ -1,0 +1,9 @@
+ npm install -g bower  =>for install bower 
+ bower install angular => for install angular package from git
+
+ npm init => for package.json
+
+ npm install express body-parser => for install node package with express and body-parser
+
+ npm install mongoose => Install mongoose package in app
+ 
